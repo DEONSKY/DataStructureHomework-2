@@ -1,0 +1,14 @@
+v1.1
+Mert Can Yılmaz
+g191210018
+
+Yorum satırına alınmış kodlar geliştirme sırasında debug için kullanılmıştır. Dışarıdan kullanılan kütüphaneler sadece <iostream> ve
+<fstream> dir. Terminalde makefile'ın bulunduğu klasör içindeyken mingw32-make komutunu yazmanız programın derlenmesi ve çalıştırılması
+için yeterli olacaktır. middleOfList ListeOrta göstericisidir.
+Odev temelde GeeksForGeeks sitesindeki avl agacı baz alınarak yapılmıstır. Projeye başladığımda derste daha bu konular
+işlenmediği için hem o siteden öğrendim, hem o sitedeki kodları kurcalayarak çalışma prensibini anladım. Konuyu anladıktan
+sonra ağacı ödeve uyarladım. ExtAVLTree üzerinde birçok modifikasyon yapmam gerekse de IntAVLTree başladığım koda oldukça
+yakın kaldı.
+
+v1.2
+NewInsert fonkisyonun göre InsertNode fonksiyonuna aktarıldı. İlk eklemede height güncelleme problemi çözüldü. İşlem kısaltıldı.
